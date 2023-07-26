@@ -2,7 +2,7 @@ import ExerciseComponent from "./Components/Challenges/ExerciseComponent";
 import ExpenseItem from "./Components/Expenses/ExpenseItem";
 import Expenses from "./Components/Expenses/Expenses";
 
-function App() {
+const App = () => {
   const expenses = [
     {
       id: "e1",
@@ -59,6 +59,6 @@ function App() {
       {/* <ExerciseComponent></ExerciseComponent> */}
     </div>
   );
-}
+};
 
 export default App;

@@ -1,6 +1,6 @@
 import "./Product.css";
 
-function Product(props) {
+const Product = (props) => {
   return (
     <article className="product">
       <h2>{props.title}</h2>
@@ -8,6 +8,6 @@ function Product(props) {
       <p>{props.description}</p>
     </article>
   );
-}
+};
 
 export default Product;

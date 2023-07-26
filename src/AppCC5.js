@@ -1,7 +1,7 @@
 import Product from "./Components/Product";
 
 
-function App() {
+const App = () => {
   const demoProducts = [
     {
       title: "Product 1",
