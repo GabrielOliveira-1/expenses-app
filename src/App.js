@@ -1,6 +1,6 @@
-import ExerciseComponent from "./Components/ExerciseComponent";
-import ExpenseItem from "./Components/ExpenseItem";
-import Expenses from "./Components/Expenses";
+import ExerciseComponent from "./Components/Challenges/ExerciseComponent";
+import ExpenseItem from "./Components/Expenses/ExpenseItem";
+import Expenses from "./Components/Expenses/Expenses";
 
 function App() {
   const expenses = [
@@ -30,9 +30,10 @@ function App() {
       <h2>Let's get started!</h2>
 
       <Expenses expense={expenses}></Expenses>
+
       {/* <Expenses expense={expenses[1]}></Expenses>
       <Expenses expense={expenses[2]}></Expenses>
-      <Expenses expense={expenses[3]}></Expenses> */}
+    <Expenses expense={expenses[3]}></Expenses> */}
 
       {/* <ExpenseItem
         title={expenses[0].title}
