@@ -1,7 +1,7 @@
 import ReactDOM from "react-dom/client";
 
 import "./index.css";
-import AppCC5 from "./AppCC5";
+import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<AppCC5 />);
+root.render(<App />);
