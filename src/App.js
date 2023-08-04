@@ -4,9 +4,6 @@ import ExpenseItem from "./Components/Expenses/ExpenseItem";
 import Expenses from "./Components/Expenses/Expenses";
 import NewExpense from "./Components/NewExpense/NewExpense";
 
-//tirar array do component e depois usar usestate dentro do componet
-//dentro do components tbm adicionar um addExpenseHandler com paraketro e entao setexpenses, dentro deste ultimo usar forma de funcao pra conseguir atualizar de acordo com o ultimo state
-
 const DUMMY_EXPENSES = [
   {
     id: "e1",
