@@ -28,7 +28,11 @@ This app incorporates various React concepts to create a functional and interact
 ## How to use it
 
 1. Clone the repository:
-   $ git clone <repository-url>
+
+```console
+git clone <repository-url>
+```
+
 2. Navigate to the project directory: cd expenses-app
 3. Install dependencies: npm install
 4. Run the app: npm start
