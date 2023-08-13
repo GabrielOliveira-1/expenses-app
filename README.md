@@ -25,15 +25,10 @@ This app incorporates various React concepts to create a functional and interact
 
 10. Conditional Contents: The UI adjusts based on conditions such as whether there are expenses to display. If there are no expenses for a given year, a message is displayed indicating that no expenses are available.
 
-## App Structure
-
-The Expenses App is structured as follows:
-
-Under construction...
-
 ## How to use it
 
-1. Clone the repository: git clone <repository-url>
+1. Clone the repository:
+   $ git clone <repository-url>
 2. Navigate to the project directory: cd expenses-app
 3. Install dependencies: npm install
 4. Run the app: npm start
