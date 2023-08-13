@@ -41,9 +41,9 @@ cd expenses-app
 
 3. Install dependencies:
 
-`console
+```console
 npm install
-`
+```
 
 4. Run the app:
 
