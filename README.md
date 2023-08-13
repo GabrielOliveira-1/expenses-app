@@ -30,7 +30,7 @@ This app incorporates various React concepts to create a functional and interact
 1. Clone the repository:
 
 ```console
-git clone <repository-url>
+git clone https://github.com/GabrielOliveira-1/expenses-app.git
 ```
 
 2. Navigate to the project directory:
