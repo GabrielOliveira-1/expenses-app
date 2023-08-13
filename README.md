@@ -33,9 +33,22 @@ This app incorporates various React concepts to create a functional and interact
 git clone <repository-url>
 ```
 
-2. Navigate to the project directory: cd expenses-app
-3. Install dependencies: npm install
-4. Run the app: npm start
+2. Navigate to the project directory:
+
+```console
+cd expenses-app
+```
+
+3. Install dependencies:
+
+`console npm install`
+
+4. Run the app:
+
+```console
+npm start
+```
+
 5. Open your browser and go to http://localhost:3000 to interact with the app.
 
 ## Summary
